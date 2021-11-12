@@ -18,5 +18,6 @@ public class GitTest {
         System.out.println("pull test");
         System.out.println("clone test");
         System.out.println("clone test11");
+        System.out.println("finally test");
     }
 }
